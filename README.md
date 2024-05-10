@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Armanihyyu
-- 👀 A front Deaveloper and a back-end developer.
-- 📫 How to reach me (instagram- https://www.instagram.com/khenzy_theofficial/)
--  Email- khenzyofficiall@gmail.com
+- front end developer &  back end developer
+- 📫 How to reach me (Email- khenzyofficiall@gmail.com)
 -  phone number-09096356357😄
 - ⚡ Fun fact: ...
 
